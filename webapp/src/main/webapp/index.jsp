@@ -28,6 +28,9 @@
     <label for="PAN"><b>PAN Number</b></label>
     <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
+    
+    <h1>KVdemy IT Training Institute!!</h1>
+    <p>Hello KV!! Thank you for choosing KVDemy!!Keep Learning!!</p>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
