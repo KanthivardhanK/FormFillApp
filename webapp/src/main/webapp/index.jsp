@@ -4,6 +4,8 @@
     <p>Hello KV!!Please fill in this form</p>
     <hr>
     <br>
+    
+    <h1>TEMPLAR KNIGHTS</h1>
 
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
