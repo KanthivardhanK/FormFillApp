@@ -7,6 +7,8 @@
     
     <h1>TEMPLAR KNIGHTS</h1>
     <h1>................QWERTYUIOPASDFGHJKLZXCVBNM................</h1>
+    <h1>................QWERTYUIOPASDFGHJKLZXCVBNM................</h1>
+    <h1>................QWERTYUIOPASDFGHJKLZXCVBNM................</h1>
 
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
